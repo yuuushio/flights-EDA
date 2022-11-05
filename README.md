@@ -1,6 +1,6 @@
 # Flights EDA
 
-Building a data pipeline to perform EDA using PySpark DataFrame API whilst being mindful of the order in which the queries executed, and tune them in a way to optimize for performance.
+Building a data pipeline to perform EDA using PySpark DataFrame API whilst being mindful of the order in which the queries are executed, and tuning them in a way to optimize for performance.
 
 AWS S3 was used to store the datasets (with the largest containing 10+ million rows) and AWS EMR to run Apache Spark and manage Spark clusters.
 
