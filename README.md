@@ -8,7 +8,7 @@ AWS S3 was used to store the datasets (with the largest containing 10+ million r
 
 The first task was to evaluate Top 3 aircrafts where the manufacturer is "Cessna". The output should be in the form `<model> <count>`.
 
-The secod task was to calculate the average flight delay given a year.
+The second task was to calculate the average flight delay given a year.
 
 And the third task was to evaluate the most popular aircraft types and output the top 5 for each company.
 
